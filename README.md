@@ -4,7 +4,7 @@
 
 The model achieved a validation loss of **1.06**, and now supports **streaming output** through a smooth, interactive **Gradio** interface.
 
-![Gradio Screenshot](https://github.com/user-attachments/assets/8f9480b4-2e17-4cbe-9dda-34c7ef93a096) <!-- Optional: Replace or remove this if no image -->
+![Gradio Screenshot](https://github.com/user-attachments/assets/81439ff3-483f-42da-95d9-543232f86579) <!-- Optional: Replace or remove this if no image -->
 
 ---
 
